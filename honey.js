@@ -492,7 +492,7 @@ music.addEventListener('ended',()=>{
             break;
         
     }
- })
+ }) 
 
  let menu_list_active_button = document.getElementById('menu_list_active_button');
  let menu_side = document.getElementsByClassName('menu_side')[0];
